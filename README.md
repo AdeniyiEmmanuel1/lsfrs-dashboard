@@ -6,8 +6,10 @@ An end-to-end data analytics project analysing 7 years of emergency response dat
 
 This project transforms raw LSFRS operational data into a professional Tableau dashboard. The dashboard tracks emergency call trends, victim outcomes, false call rates, and financial impact of fire incidents across seven operational periods from May 2019 to May 2026.
 
-Dashboard Preview
-[Insert dashboard screenshot here — Dashboard_1.png]
+**Dashboard Preview**
+
+[Dashboard Screenshot](Dashboard 1 (3).png)
+
 Key Metrics & Findings
 •	Total Fire Calls (2019–2026): 9,359 — rising from 1,115 to 1,634 per year (+46%)
 •	False Call Rate: Grew from ~5% (2019-20) to ~33% (2025-26) — a critical operational challenge
