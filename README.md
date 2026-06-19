@@ -81,13 +81,21 @@ This project transforms raw LSFRS operational data into a professional Tableau d
 **How to Use**
 
 
-20.	Clone the repository: git clone https://github.com/YOUR-USERNAME/lsfrs-dashboard.git
-21.	Open Tableau Desktop and connect to lsfrs_clean_tableau.csv
-22.	Set Start_Date and End_Date as Date fields (format: DD/MM/YYYY)
-23.	Set Period_Order as a Dimension for correct sorting
-24.	Rebuild or explore the dashboard using the cleaned data
-Author
-Created by [Your Name]
-LinkedIn: [Your LinkedIn URL]
-Data Source: Lagos State Fire and Rescue Service (LSFRS)
+20.	Clone the repository: git clone [https://github.com/YOUR-USERNAME/lsfrs-dashboard.git](https://github.com/AdeniyiEmmanuel1/lsfrs-dashboard)
+    
+22.	Open Tableau Desktop and connect to lsfrs_clean_tableau.csv
+    
+24.	Set Start_Date and End_Date as Date fields (format: DD/MM/YYYY)
+    
+26.	Set Period_Order as a Dimension for correct sorting
+    
+28.	Rebuild or explore the dashboard using the cleaned data
+    
+**Author**
+
+Created by **Aden Emmanuel**
+
+**LinkedIn:** linkedin.com/in/aden-emmanuel-117440142
+
+**Data Source:** Lagos State Fire and Rescue Service (LSFRS)
 
