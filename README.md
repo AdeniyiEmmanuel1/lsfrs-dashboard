@@ -1,17 +1,20 @@
-**Lagos State Fire and Rescue Service (LSFRS) - Emergency Response Dashboard (2019–2026)**
+# **Lagos State Fire and Rescue Service (LSFRS) - Emergency Response Dashboard (2019–2026)**
 
 An end-to-end data analytics project analysing 7 years of emergency response data from the Lagos State Fire and Rescue Service. The project covers data cleaning, restructuring, and interactive dashboard visualisation in Tableau.
 
-#**Project Overview**
+## **Project Overview**
 
 This project transforms raw LSFRS operational data into a professional Tableau dashboard. The dashboard tracks emergency call trends, victim outcomes, false call rates, and financial impact of fire incidents across seven operational periods from May 2019 to May 2026.
+
+---------------------------------
 
 **Dashboard Preview**
 
 ![Dashboard Screenshot](https://github.com/AdeniyiEmmanuel1/lsfrs-dashboard/blob/main/Dashboard%201%20(3).png?raw=true)
 
+--------------------------------
 
-**Key Metrics & Findings**
+## **Key Metrics & Findings**
 
 •	**Total Fire Calls (2019–2026):** 9,359 - rising from 1,115 to 1,634 per year (+46%)
 
@@ -29,7 +32,7 @@ This project transforms raw LSFRS operational data into a professional Tableau d
 
 •	**Total Salvaged Situations: 599**
 
-**Tools & Technologies**
+## **Tools & Technologies**
 
 •	Microsoft Excel - Source data format
 
@@ -39,7 +42,7 @@ This project transforms raw LSFRS operational data into a professional Tableau d
 
 •	GitHub - Version control and project hosting
 
-**Project Structure**
+## **Project Structure**
 
 •	lsfrs_raw_uncleaned.xlsx - Raw source data
 
@@ -49,7 +52,7 @@ This project transforms raw LSFRS operational data into a professional Tableau d
 
 •	README.md - Project documentation
 
-**Data Cleaning Steps**
+## **Data Cleaning Steps**
 
 10.	Removed blank rows and standardised all metric labels
     
@@ -62,7 +65,7 @@ This project transforms raw LSFRS operational data into a professional Tableau d
 14.	Added Period_Order field for correct chronological sorting in Tableau
 
     
-**Dashboard Features**
+## **Dashboard Features**
 
 
 •	KPI Cards with year-on-year change indicators and sparkline trend lines
@@ -78,7 +81,7 @@ This project transforms raw LSFRS operational data into a professional Tableau d
 •	Date-filtered views using Start_Date and End_Date fields
 
 
-**How to Use**
+## **How to Use**
 
 
 20.	Clone the repository: git clone [https://github.com/YOUR-USERNAME/lsfrs-dashboard.git](https://github.com/AdeniyiEmmanuel1/lsfrs-dashboard)
@@ -91,7 +94,7 @@ This project transforms raw LSFRS operational data into a professional Tableau d
     
 28.	Rebuild or explore the dashboard using the cleaned data
     
-**Author**
+## **Author**
 
 Created by **Aden Emmanuel**
 
