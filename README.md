@@ -1,7 +1,11 @@
-##Lagos State Fire and Rescue Service (LSFRS) — Emergency Response Dashboard (2019–2026)
+**Lagos State Fire and Rescue Service (LSFRS) — Emergency Response Dashboard (2019–2026)**
+
 An end-to-end data analytics project analysing 7 years of emergency response data from the Lagos State Fire and Rescue Service. The project covers data cleaning, restructuring, and interactive dashboard visualisation in Tableau.
-#Project Overview
+
+#**Project Overview**
+
 This project transforms raw LSFRS operational data into a professional Tableau dashboard. The dashboard tracks emergency call trends, victim outcomes, false call rates, and financial impact of fire incidents across seven operational periods from May 2019 to May 2026.
+
 Dashboard Preview
 [Insert dashboard screenshot here — Dashboard_1.png]
 Key Metrics & Findings
