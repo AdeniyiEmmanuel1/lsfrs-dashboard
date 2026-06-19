@@ -1,0 +1,78 @@
+Metric,Category,Period,Period_Order,Start_Date,End_Date,Value
+Collapsed Building,Incident Type,2019-2020,0,29/05/2019,28/05/2020,11.0
+Collapsed Building,Incident Type,2020-2021,1,29/05/2020,28/05/2021,5.0
+Collapsed Building,Incident Type,2021-2022,2,29/05/2021,28/05/2022,10.0
+Collapsed Building,Incident Type,2022-2023,3,29/05/2022,28/05/2023,7.0
+Collapsed Building,Incident Type,2023-2024,4,29/05/2023,28/05/2024,18.0
+Collapsed Building,Incident Type,2024-2025,5,29/05/2024,28/05/2025,16.0
+Collapsed Building,Incident Type,2025-2026,6,29/05/2025,28/05/2026,10.0
+Estimated Properties Loss (NGN Billion),Financial,2019-2020,0,29/05/2019,28/05/2020,12.89
+Estimated Properties Loss (NGN Billion),Financial,2020-2021,1,29/05/2020,28/05/2021,11.05
+Estimated Properties Loss (NGN Billion),Financial,2021-2022,2,29/05/2021,28/05/2022,11.13
+Estimated Properties Loss (NGN Billion),Financial,2022-2023,3,29/05/2022,28/05/2023,17.06
+Estimated Properties Loss (NGN Billion),Financial,2023-2024,4,29/05/2023,28/05/2024,19.26
+Estimated Properties Loss (NGN Billion),Financial,2024-2025,5,29/05/2024,28/05/2025,19.2
+Estimated Properties Loss (NGN Billion),Financial,2025-2026,6,29/05/2025,28/05/2026,19.22
+Estimated Properties Saved (NGN Billion),Financial,2019-2020,0,29/05/2019,28/05/2020,77.34
+Estimated Properties Saved (NGN Billion),Financial,2020-2021,1,29/05/2020,28/05/2021,66.3
+Estimated Properties Saved (NGN Billion),Financial,2021-2022,2,29/05/2021,28/05/2022,66.78
+Estimated Properties Saved (NGN Billion),Financial,2022-2023,3,29/05/2022,28/05/2023,102.36
+Estimated Properties Saved (NGN Billion),Financial,2023-2024,4,29/05/2023,28/05/2024,115.56
+Estimated Properties Saved (NGN Billion),Financial,2024-2025,5,29/05/2024,28/05/2025,115.2
+Estimated Properties Saved (NGN Billion),Financial,2025-2026,6,29/05/2025,28/05/2026,115.32
+Explosion,Incident Type,2019-2020,0,29/05/2019,28/05/2020,5.0
+Explosion,Incident Type,2020-2021,1,29/05/2020,28/05/2021,7.0
+Explosion,Incident Type,2021-2022,2,29/05/2021,28/05/2022,2.0
+Explosion,Incident Type,2022-2023,3,29/05/2022,28/05/2023,4.0
+Explosion,Incident Type,2023-2024,4,29/05/2023,28/05/2024,6.0
+Explosion,Incident Type,2024-2025,5,29/05/2024,28/05/2025,4.0
+Explosion,Incident Type,2025-2026,6,29/05/2025,28/05/2026,2.0
+False Call,Other,2019-2020,0,29/05/2019,28/05/2020,68.0
+False Call,Other,2020-2021,1,29/05/2020,28/05/2021,42.0
+False Call,Other,2021-2022,2,29/05/2021,28/05/2022,70.0
+False Call,Other,2022-2023,3,29/05/2022,28/05/2023,586.0
+False Call,Other,2023-2024,4,29/05/2023,28/05/2024,516.0
+False Call,Other,2024-2025,5,29/05/2024,28/05/2025,550.0
+False Call,Other,2025-2026,6,29/05/2025,28/05/2026,639.0
+Fire Call,Incident Type,2019-2020,0,29/05/2019,28/05/2020,1115.0
+Fire Call,Incident Type,2020-2021,1,29/05/2020,28/05/2021,937.0
+Fire Call,Incident Type,2021-2022,2,29/05/2021,28/05/2022,973.0
+Fire Call,Incident Type,2022-2023,3,29/05/2022,28/05/2023,1511.0
+Fire Call,Incident Type,2023-2024,4,29/05/2023,28/05/2024,1575.0
+Fire Call,Incident Type,2024-2025,5,29/05/2024,28/05/2025,1614.0
+Fire Call,Incident Type,2025-2026,6,29/05/2025,28/05/2026,1634.0
+Rescue Call,Incident Type,2019-2020,0,29/05/2019,28/05/2020,111.0
+Rescue Call,Incident Type,2020-2021,1,29/05/2020,28/05/2021,115.0
+Rescue Call,Incident Type,2021-2022,2,29/05/2021,28/05/2022,95.0
+Rescue Call,Incident Type,2022-2023,3,29/05/2022,28/05/2023,137.0
+Rescue Call,Incident Type,2023-2024,4,29/05/2023,28/05/2024,188.0
+Rescue Call,Incident Type,2024-2025,5,29/05/2024,28/05/2025,137.0
+Rescue Call,Incident Type,2025-2026,6,29/05/2025,28/05/2026,133.0
+Salvaged,Incident Type,2019-2020,0,29/05/2019,28/05/2020,47.0
+Salvaged,Incident Type,2020-2021,1,29/05/2020,28/05/2021,41.0
+Salvaged,Incident Type,2021-2022,2,29/05/2021,28/05/2022,33.0
+Salvaged,Incident Type,2022-2023,3,29/05/2022,28/05/2023,47.0
+Salvaged,Incident Type,2023-2024,4,29/05/2023,28/05/2024,139.0
+Salvaged,Incident Type,2024-2025,5,29/05/2024,28/05/2025,149.0
+Salvaged,Incident Type,2025-2026,6,29/05/2025,28/05/2026,143.0
+Total Operational Calls,Summary,2019-2020,0,29/05/2019,28/05/2020,1289.0
+Total Operational Calls,Summary,2020-2021,1,29/05/2020,28/05/2021,1105.0
+Total Operational Calls,Summary,2021-2022,2,29/05/2021,28/05/2022,1113.0
+Total Operational Calls,Summary,2022-2023,3,29/05/2022,28/05/2023,1706.0
+Total Operational Calls,Summary,2023-2024,4,29/05/2023,28/05/2024,1926.0
+Total Operational Calls,Summary,2024-2025,5,29/05/2024,28/05/2025,1920.0
+Total Operational Calls,Summary,2025-2026,6,29/05/2025,28/05/2026,1922.0
+Victims Recovered Suspected Dead,Outcomes,2019-2020,0,29/05/2019,28/05/2020,67.0
+Victims Recovered Suspected Dead,Outcomes,2020-2021,1,29/05/2020,28/05/2021,47.0
+Victims Recovered Suspected Dead,Outcomes,2021-2022,2,29/05/2021,28/05/2022,104.0
+Victims Recovered Suspected Dead,Outcomes,2022-2023,3,29/05/2022,28/05/2023,78.0
+Victims Recovered Suspected Dead,Outcomes,2023-2024,4,29/05/2023,28/05/2024,85.0
+Victims Recovered Suspected Dead,Outcomes,2024-2025,5,29/05/2024,28/05/2025,90.0
+Victims Recovered Suspected Dead,Outcomes,2025-2026,6,29/05/2025,28/05/2026,116.0
+Victims Rescued Alive,Outcomes,2019-2020,0,29/05/2019,28/05/2020,142.0
+Victims Rescued Alive,Outcomes,2020-2021,1,29/05/2020,28/05/2021,64.0
+Victims Rescued Alive,Outcomes,2021-2022,2,29/05/2021,28/05/2022,89.0
+Victims Rescued Alive,Outcomes,2022-2023,3,29/05/2022,28/05/2023,243.0
+Victims Rescued Alive,Outcomes,2023-2024,4,29/05/2023,28/05/2024,396.0
+Victims Rescued Alive,Outcomes,2024-2025,5,29/05/2024,28/05/2025,419.0
+Victims Rescued Alive,Outcomes,2025-2026,6,29/05/2025,28/05/2026,362.0
